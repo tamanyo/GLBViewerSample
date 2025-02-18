@@ -1,6 +1,6 @@
 # GLB Viewer
 
-[https://tamanyo.github.io/GLBViewerSample/GLBViewer.html](https://tamanyo.github.io/GLBViewerSample/GLBViewer.html)
+[実際の動作画面](https://tamanyo.github.io/GLBViewerSample/GLBViewer.html)
 
 GLB Viewer は、Web ブラウザ上で GLB 形式の 3D モデルをドラッグ＆ドロップで読み込み、表示・操作するためのシンプルな Three.js ベースのビューアです。
 
